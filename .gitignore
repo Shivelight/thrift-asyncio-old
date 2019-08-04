@@ -1,0 +1,5 @@
+gen-*
+Makefile
+Makefile.in
+cmake-*
+bin/
